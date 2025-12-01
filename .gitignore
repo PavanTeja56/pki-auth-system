@@ -1,0 +1,18 @@
+# Do NOT ignore key files — they must be committed
+# PRIVATE AND PUBLIC KEYS SHOULD BE PUBLIC FOR THIS ASSIGNMENT
+# ----------------------------------------------
+
+# Sensitive seed (should NOT be committed)
+encrypted_seed.txt
+seed.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Env files
+.env
+
+# Editor configs
+.vscode/
+.idea/
